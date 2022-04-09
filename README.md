@@ -1,2 +1,2 @@
 # hv
-I tried To Do :hove command, check it out !
+I tried To Do :hover command, check it out !
